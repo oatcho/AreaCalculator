@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a167f13-5135-491f-80e1-42cc90fdeed2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/CalculatorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CalculatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="293">
               <caret line="25" column="136" selection-start-line="25" selection-start-column="136" selection-end-line="25" selection-end-column="136" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="75">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -43,8 +36,6 @@
                 <element signature="e#334#335#0" expanded="true" />
                 <element signature="e#368#369#0" expanded="true" />
                 <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#464#465#0" expanded="true" />
               </folding>
@@ -111,7 +102,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548189628260" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548190592589" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548185399399</updated>
-      <workItem from="1548185400691" duration="3395000" />
+      <workItem from="1548185400691" duration="4012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3395000" />
+    <option name="totallyTimeSpent" value="4012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -198,10 +189,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="25" column="136" selection-start-line="25" selection-start-column="136" selection-end-line="25" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="e#150#151#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -211,18 +209,9 @@
             <element signature="e#334#335#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
             <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="25" column="136" selection-start-line="25" selection-start-column="136" selection-end-line="25" selection-end-column="136" />
         </state>
       </provider>
     </entry>

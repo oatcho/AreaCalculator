@@ -23,6 +23,7 @@ public class CalculatorDemo {
         firstCalculation.setHeight(inputHeight);
         firstCalculation.setWidth(inputWidth);
 
+
         System.out.println("The area of said rectangle is: " + firstCalculation.getHeight() + " * " + firstCalculation.getWidth() + " = " + firstCalculation.getArea());
 
 

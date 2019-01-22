@@ -4,7 +4,6 @@ public class Calculator {
 
     private int height;
     private int width;
-    private int area;
 
     public void setHeight (int objectHeight) {
         height = objectHeight;
@@ -22,12 +21,12 @@ public class Calculator {
         return width;
     }
 
-    public void setArea (int objectArea) {
-        area = objectArea;
-    }
+//   public void setArea (int objectArea) {
+//        area = objectArea;
+//    }
 
     public int getArea() {
-        return area;
+        return height * width;
     }
 
 
